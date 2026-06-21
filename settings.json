@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "8BESTFRIENDSFOREVER.aternos.me:38886",
+    "ip": "8BESTFRIENDSFOREVER.aternos.me",
     "port": 38886,
     "version": "",
     "try-creative": false
